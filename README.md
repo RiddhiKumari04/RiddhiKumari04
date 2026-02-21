@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=1f2937&height=250&section=header&text=RIDDHI%20KUMARI&fontSize=70&fontColor=60a5fa&animation=fadeIn&desc=Backend%20Architect%20%7C%20Distributed%20Systems%20%7C%20AI%20Researcher&descAlignY=65&descSize=20"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=064e3b&height=250&section=header&text=RIDDHI%20KUMARI&fontSize=70&fontColor=10b981&animation=fadeIn&desc=Backend%20Architect%20%7C%20Distributed%20Systems%20%7C%20AI%20Researcher&descAlignY=65&descSize=20"/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Stack-Java_Spring_Boot-3b82f6?style=for-the-badge&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Focus-System_Design-8b5cf6?style=for-the-badge&logo=diagrams.net&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Research-Neural_Networks-ec4899?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Stack-Java_Spring_Boot-10b981?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Focus-System_Design-059669?style=for-the-badge&logo=diagrams.net&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Research-Neural_Networks-34d399?style=for-the-badge&logo=pytorch&logoColor=white"/>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=60A5FA&center=true&vCenter=true&width=600&lines=Building+Resilient+Microservices;Bridging+ML+with+Production+Backends;Scalable+Architectures+at+Heart" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=Building+Resilient+Microservices;Bridging+ML+with+Production+Backends;Scalable+Architectures+at+Heart" alt="Typing SVG" />
 
 ---
 
@@ -25,10 +25,10 @@
 
 ## 🚀 The Developer Persona
 
-I am a **3rd-year BTech CSE student** specialized in building high-performance backend systems. I don't just write code; I design systems that scale. My expertise lies in the intersection of **Spring Boot Microservices**, **Intelligent Automation**, and **Full-Stack Development**.
+I am a **3rd-year BTech CSE student** specialized in building high-performance backend systems [cite: 2026-02-17]. I don't just write code; I design systems that scale [cite: 2026-01-21]. My expertise lies in the intersection of **Spring Boot Microservices**, **Intelligent Automation**, and **Full-Stack Development** [cite: 2026-01-21].
 
-- 🔭 **Current Venture:** Engineering event-driven architectures with Kafka and AWS.
-- 🧪 **AI Research:** Developing LLM-powered automation for developer workflows.
+- 🔭 **Current Venture:** Engineering event-driven architectures with Kafka and AWS [cite: 2026-01-21].
+- 🧪 **AI Research:** Developing LLM-powered automation for developer workflows [cite: 2026-01-21].
 - ⚡ **Philosophy:** "Clean code isn't a luxury; it's a technical debt insurance policy."
 - 🎯 **Vision 2026:** Leading contributions in the Cloud-Native ecosystem.
 
@@ -49,10 +49,10 @@ I am a **3rd-year BTech CSE student** specialized in building high-performance b
 > *How I approach building production-ready software:*
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Architecture-Microservices-60a5fa?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Development-Test_Driven_(TDD)-8b5cf6?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Workflow-Agile_%2F_Scrum-ec4899?style=flat-square"/>
-  <img src="https://img.shields.io/badge/CI%2FCD-GitHub_Actions-3b82f6?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Architecture-Microservices-10b981?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Development-Test_Driven_(TDD)-059669?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Workflow-Agile_%2F_Scrum-34d399?style=flat-square"/>
+  <img src="https://img.shields.io/badge/CI%2FCD-GitHub_Actions-10b981?style=flat-square"/>
 </div>
 
 <br/>
@@ -69,39 +69,39 @@ I am a **3rd-year BTech CSE student** specialized in building high-performance b
 ## 🏮 Engineering Showcase
 
 <table border="0">
-  <tr>
-    <td width="55%" valign="top">
-      <h3>🤖 WhatsApp-Flow-Generator | <a href="https://github.com/RiddhiKumari04/WhatsApp-Flow-Generator">Repo</a></h3>
-      <p><b>AI-Driven UI Automation Engine</b></p>
-      <ul>
-        <li>Converts static UI mockups into dynamic WhatsApp Flow JSON structures.</li>
-        <li><b>Tech:</b> FastAPI, NLP, Python.</li>
-        <li><b>Impact:</b> Reduced development-to-deployment time for WhatsApp bots by 60%.</li>
-      </ul>
-    </td>
-    <td width="45%">
-      <img src="https://images.unsplash.com/photo-1611746872915-64382b5c76da?auto=format&fit=crop&q=80&w=600&h=350" alt="WhatsApp Automation" style="border-radius:10px; border: 1px solid #3b82f6;"/>
-    </td>
-  </tr>
+  <tr>
+    <td width="55%" valign="top">
+      <h3>🤖 WhatsApp-Flow-Generator | <a href="https://github.com/RiddhiKumari04/WhatsApp-Flow-Generator">Repo</a></h3>
+      <p><b>AI-Driven UI Automation Engine</b></p>
+      <ul>
+        <li>Converts static UI mockups into dynamic WhatsApp Flow JSON structures [cite: 2026-01-31].</li>
+        <li><b>Tech:</b> FastAPI, NLP, Python [cite: 2026-01-31].</li>
+        <li><b>Impact:</b> Reduced development-to-deployment time for WhatsApp bots by 60%.</li>
+      </ul>
+    </td>
+    <td width="45%">
+      <img src="https://images.unsplash.com/photo-1611746872915-64382b5c76da?auto=format&fit=crop&q=80&w=600&h=350" alt="WhatsApp Automation" style="border-radius:10px; border: 1px solid #10b981;"/>
+    </td>
+  </tr>
 </table>
 
 <br/>
 
 <table border="0">
-  <tr>
-    <td width="45%">
-      <img src="https://images.unsplash.com/photo-1620714223084-8fcacc6dfd8d?auto=format&fit=crop&q=80&w=600&h=350" alt="Fintech Backend Architecture" style="border-radius:10px; border: 1px solid #8b5cf6;"/>
-    </td>
-    <td width="55%" valign="top">
-      <h3>💳 Bank-Simulator | <a href="https://github.com/RiddhiKumari04/Bank-Simulator">Repo</a></h3>
-      <p><b>High-Concurrency Financial Backend</b></p>
-      <ul>
-        <li>A resilient microservices architecture handling atomic transactions and secure ledger management.</li>
-        <li><b>Tech:</b> Java, Spring Boot, PostgreSQL, JWT.</li>
-        <li><b>Core:</b> Multi-threaded processing and automated audit logging.</li>
-      </ul>
-    </td>
-  </tr>
+  <tr>
+    <td width="45%">
+      <img src="https://images.unsplash.com/photo-1620714223084-8fcacc6dfd8d?auto=format&fit=crop&q=80&w=600&h=350" alt="Fintech Backend Architecture" style="border-radius:10px; border: 1px solid #059669;"/>
+    </td>
+    <td width="55%" valign="top">
+      <h3>💳 Bank-Simulator | <a href="https://github.com/RiddhiKumari04/Bank-Simulator">Repo</a></h3>
+      <p><b>High-Concurrency Financial Backend</b></p>
+      <ul>
+        <li>A resilient microservices architecture handling atomic transactions and secure ledger management [cite: 2026-01-31].</li>
+        <li><b>Tech:</b> Java, Spring Boot, PostgreSQL, JWT [cite: 2026-01-31].</li>
+        <li><b>Core:</b> Multi-threaded processing and automated audit logging.</li>
+      </ul>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -112,9 +112,9 @@ I am a **3rd-year BTech CSE student** specialized in building high-performance b
 
 | **Proficiency Metrics** | **GitHub Activity Graph** |
 | :---: | :---: |
-| <p align="left"><b>Java / Spring Boot</b><br/><img src="https://geps.dev/progress/92?color=60a5fa"/><br/><b>Python / FastAPI</b><br/><img src="https://geps.dev/progress/85?color=8b5cf6"/><br/><b>AWS / Cloud</b><br/><img src="https://geps.dev/progress/78?color=ec4899"/><br/><b>System Design</b><br/><img src="https://geps.dev/progress/80?color=60a5fa"/></p> | <img src="https://github-readme-streak-stats.herokuapp.com?user=riddhikumari04&theme=tokyonight&hide_border=true&background=0D1117&stroke=60a5fa&ring=8b5cf6&fire=ec4899" width="420px"/> |
+| <p align="left"><b>Java / Spring Boot</b><br/><img src="https://geps.dev/progress/92?color=10b981"/><br/><b>Python / FastAPI</b><br/><img src="https://geps.dev/progress/85?color=059669"/><br/><b>AWS / Cloud</b><br/><img src="https://geps.dev/progress/78?color=34d399"/><br/><b>System Design</b><br/><img src="https://geps.dev/progress/80?color=10b981"/></p> | <img src="https://github-readme-streak-stats.herokuapp.com?user=riddhikumari04&theme=tokyonight&hide_border=true&background=0D1117&stroke=10b981&ring=059669&fire=34d399" width="420px"/> |
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=riddhikumari04&bg_color=0d1117&color=60a5fa&line=8b5cf6&point=ffffff&area=true&hide_border=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=riddhikumari04&bg_color=0d1117&color=10b981&line=059669&point=ffffff&area=true&hide_border=true" width="100%" />
 
 </div>
 
@@ -122,26 +122,26 @@ I am a **3rd-year BTech CSE student** specialized in building high-performance b
 
 ## ⚡ Dev Habits & Metrics
 <div align="center">
-  <table border="0">
-    <tr>
-      <td><img src="https://img.shields.io/badge/Weekly_Coding_Hours-40+_Hours-60a5fa?style=for-the-badge&logo=wakatime&logoColor=white"/></td>
-      <td><img src="https://img.shields.io/badge/Coffee_Consumed-Infinity_Cups-8b5cf6?style=for-the-badge&logo=coffeescript&logoColor=white"/></td>
-      <td><img src="https://img.shields.io/badge/Preferred_Editor-VS_Code_%7C_IntelliJ-ec4899?style=for-the-badge&logo=visual-studio-code&logoColor=white"/></td>
-    </tr>
-  </table>
+  <table border="0">
+    <tr>
+      <td><img src="https://img.shields.io/badge/Weekly_Coding_Hours-40+_Hours-10b981?style=for-the-badge&logo=wakatime&logoColor=white"/></td>
+      <td><img src="https://img.shields.io/badge/Coffee_Consumed-Infinity_Cups-059669?style=for-the-badge&logo=coffeescript&logoColor=white"/></td>
+      <td><img src="https://img.shields.io/badge/Preferred_Editor-VS_Code_%7C_IntelliJ-34d399?style=for-the-badge&logo=visual-studio-code&logoColor=white"/></td>
+    </tr>
+  </table>
 </div>
 
 ---
 
 ## 🏆 Beyond the Code
-* **HCL Hackathon:** Optimized low-latency API endpoints for real-time data processing.
+* **HCL Hackathon:** Optimized low-latency API endpoints for real-time data processing [cite: 2026-01-21].
 * **Continuous Learning:** Deep-diving into the CAP theorem and Distributed Consensus algorithms.
 * **Mentorship:** Active participant in peer-code reviews and technical writing.
 * **Collaboration:** Always open to discussing Backend System Design and AI integrations.
 
 <div align="center">
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=riddhikumari04&color=60a5fa&style=for-the-badge&label=PROFILE+VIEWS" />
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=riddhikumari04&color=10b981&style=for-the-badge&label=PROFILE+VIEWS" />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1f2937&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=064e3b&height=100&section=footer"/>
