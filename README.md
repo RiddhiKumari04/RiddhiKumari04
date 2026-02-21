@@ -25,10 +25,10 @@
 
 ## 🚀 The Developer Persona
 
-I am a **3rd-year BTech CSE student** specialized in building high-performance backend systems [cite: 2026-02-17]. I don't just write code; I design systems that scale [cite: 2026-01-21]. My expertise lies in the intersection of **Spring Boot Microservices**, **Intelligent Automation**, and **Full-Stack Development** [cite: 2026-01-21].
+I am a **3rd-year BTech CSE student** specialized in building high-performance backend systems. I don't just write code; I design systems that scale. My expertise lies in the intersection of **Spring Boot Microservices**, **Intelligent Automation**, and **Full-Stack Development**.
 
-- 🔭 **Current Venture:** Engineering event-driven architectures with Kafka and AWS [cite: 2026-01-21].
-- 🧪 **AI Research:** Developing LLM-powered automation for developer workflows [cite: 2026-01-21].
+- 🔭 **Current Venture:** Engineering event-driven architectures with Kafka and AWS.
+- 🧪 **AI Research:** Developing LLM-powered automation for developer workflows.
 - ⚡ **Philosophy:** "Clean code isn't a luxury; it's a technical debt insurance policy."
 - 🎯 **Vision 2026:** Leading contributions in the Cloud-Native ecosystem.
 
@@ -74,8 +74,8 @@ I am a **3rd-year BTech CSE student** specialized in building high-performance b
       <h3>🤖 WhatsApp-Flow-Generator | <a href="https://github.com/RiddhiKumari04/WhatsApp-Flow-Generator">Repo</a></h3>
       <p><b>AI-Driven UI Automation Engine</b></p>
       <ul>
-        <li>Converts static UI mockups into dynamic WhatsApp Flow JSON structures [cite: 2026-01-31].</li>
-        <li><b>Tech:</b> FastAPI, NLP, Python [cite: 2026-01-31].</li>
+        <li>Converts static UI mockups into dynamic WhatsApp Flow JSON structures.</li>
+        <li><b>Tech:</b> FastAPI, NLP, Python.</li>
         <li><b>Impact:</b> Reduced development-to-deployment time for WhatsApp bots by 60%.</li>
       </ul>
     </td>
@@ -96,8 +96,8 @@ I am a **3rd-year BTech CSE student** specialized in building high-performance b
       <h3>💳 Bank-Simulator | <a href="https://github.com/RiddhiKumari04/Bank-Simulator">Repo</a></h3>
       <p><b>High-Concurrency Financial Backend</b></p>
       <ul>
-        <li>A resilient microservices architecture handling atomic transactions and secure ledger management [cite: 2026-01-31].</li>
-        <li><b>Tech:</b> Java, Spring Boot, PostgreSQL, JWT [cite: 2026-01-31].</li>
+        <li>A resilient microservices architecture handling atomic transactions and secure ledger management.</li>
+        <li><b>Tech:</b> Java, Spring Boot, PostgreSQL, JWT.</li>
         <li><b>Core:</b> Multi-threaded processing and automated audit logging.</li>
       </ul>
     </td>
@@ -134,7 +134,7 @@ I am a **3rd-year BTech CSE student** specialized in building high-performance b
 ---
 
 ## 🏆 Beyond the Code
-* **HCL Hackathon:** Optimized low-latency API endpoints for real-time data processing [cite: 2026-01-21].
+* **HCL Hackathon:** Optimized low-latency API endpoints for real-time data processing.
 * **Continuous Learning:** Deep-diving into the CAP theorem and Distributed Consensus algorithms.
 * **Mentorship:** Active participant in peer-code reviews and technical writing.
 * **Collaboration:** Always open to discussing Backend System Design and AI integrations.
